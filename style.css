@@ -135,7 +135,7 @@ div {
         font-size: 10px;
         background-color: red;
         height: 100px;
-     ;
+     
       
     }
 
@@ -144,22 +144,22 @@ div {
         margin-bottom: 100px;
         margin-left: 10px;
         width: 70px;
-    
+
 
     }
 .wtsapp{
-    margin-right: 500px;
-    background-color: #fff
+    height: 40px;
+    margin-top: 338px;
+    margin-left: 350px;
+
+}
+form{
+    
+}
+
 
   
-}
-.caixa{
-    height: 100px;
-}
-body{
-    background-color: #bbb9b9;
-height: auto;
-}
+
     
  
 }
