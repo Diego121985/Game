@@ -94,8 +94,8 @@ button:hover {
     padding: 3px;
     width: 150px;
     margin: 5px;
-    margin-left: 40%;
-    margin-top: 10px;
+    margin-left: 87%;
+    margin-top: 102px;
     
 }
 div {
@@ -106,8 +106,8 @@ div {
 .wtsapp {
  width: 50px;
  height: 50px;
- margin-left: 520px;
-  margin-top: 90px;
+ margin-left: 20px;
+  margin-top: 540px;
   }
 
  @media (max-width: 600px) {
